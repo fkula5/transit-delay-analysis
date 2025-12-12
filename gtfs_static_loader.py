@@ -6,7 +6,7 @@ from pathlib import Path
 import json
 from datetime import datetime, timedelta
 
-GTFS_STATIC_URL = "https://www.mpkrzeszow.pl/gtfs/gtfs.zip"
+GTFS_STATIC_URL = "https://otwartedane.erzeszow.pl/media/resources/gtfs-27-10-2025-31-12-2025-21-10-2025-08-58-31.zip"
 GTFS_CACHE_DIR = Path("gtfs_cache")
 GTFS_CACHE_FILE = GTFS_CACHE_DIR / "gtfs_static.zip"
 GTFS_EXTRACTED_DIR = GTFS_CACHE_DIR / "extracted"
