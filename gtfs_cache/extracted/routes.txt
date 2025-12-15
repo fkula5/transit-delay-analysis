@@ -1,0 +1,284 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1958,1,12,Siedliska skrzyżowanie II 05 - Trembeckiego ZTM pętla 01 -12,,3,,000000,F5F5F5
+1864,1,17,Wita Stwosza / Langiewicza 02 - Lwowska szpital pętla 02 -17,,3,,CD5C5C,F5F5F5
+1977,1,20,Bardowskiego 03 - Bratkowice las 01-20,,3,,800000,F5F5F5
+1536,1,42,Piłsudskiego U. Marszałkowski 08 - Bł. Karoliny 09 -42,,3,,778899,282828
+1849,1,15,Olbrachta pętla 09 - Zwięczycka MPWiK 05  p. Jarową-15, p. Jarową,3,,FFFFFF,282828
+1828,1,18,Obr. Poczty Gdańskiej pętla 08 - Pienińska pętla 03 -18,,3,,A52A2A,F5F5F5
+1482,1,22,Mrowla Otoka pętla 01 - Bardowskiego 04-22,,3,,FFE4E1,282828
+1632,1,N2,Słocińska pętla 11 nż - Bł. Karoliny pętla 09-N2,,3,,B0E0E6,282828
+1897,1,8,Sikorskiego MPGK 20 - Rudna Wielka zakręt 04 nż -8,,3,,8FBC8B,282828
+756,1,3,Boguchwała 97 - Krakowska granica 15 -3,,3,,9ACD32,282828
+2074,1,58,Hermanowa Czerwonki pętla 64 - Dworzec Lokalny p. Hermanową pętla-58,p. Hermanową pętla,3,,98FB98,282828
+1917,1,8,Rudna Wielka zakręt 04 - Sikorskiego MPGK 20-8,,3,,8FBC8B,282828
+1408,1,61,Łukasiewicza pętla 08 - Łukasiewicza pętla 08 -61,,3,,FFE4C4,282828
+1823,1,47,Baligrodzka 01 - Dworaka targ 01 -47,,3,,6A5ACD,F5F5F5
+1848,1,37,Hermanowa Przylasek pętla 05 - Trembeckiego ZTM pętla 01 -37,,3,,00BFFF,282828
+2037,1,44,Tyczyn Kopernika 02 - Dworaka targ 01 -44,,3,,E6E6FA,282828
+1954,1,13,Lwowska szpital pętla 02 - Wita Stwosza pętla 01 -13,,3,,DCDCDC,282828
+1457,1,51,Bardowskiego 04 - Jasionka EME Aero 02 -51,,3,,FF00FF,F5F5F5
+1877,1,0B,Dworzec Główny PKP 03 - Dworzec Główny PKP 03 -0B,,3,,696969,F5F5F5
+1846,1,11,Potockiego pętla 10 - Matuszczaka pętla 04 -11,,3,,C0C0C0,282828
+1930,1,18,Obr. Poczty Gdańskiej pętla 08 - Łukasiewicza pętla 10 -18,,3,,A52A2A,F5F5F5
+1886,1,16,Kalinowa pętla 04 - Św. Rocha lasek pętla 11 -16,,3,,BC8F8F,282828
+760,1,3,Krakowska granica 15 - Boguchwała 97 -3,,3,,9ACD32,282828
+1858,1,15,Zwięczycka MPWiK 05 - Olbrachta pętla 09 -15,,3,,FFFFFF,282828
+1631,1,2,Baligrodzka 01 - Kard. K. Wojtyły pętla 03 nż -2,,3,,F08080,282828
+1438,1,51,Jasionka EME Aero 01 - Bardowskiego 02 -51,,3,,FF00FF,F5F5F5
+1932,1,40,Łukasiewicza pętla 08 - Bł. Karoliny pętla 09 -40,,3,,B0C4DE,282828
+2050,1,B,Hetmańska stadion 07 - Cienista cmentarz 04-B,,3,,6495ED,282828
+953,1,28,Lubelska Zajezdnia MPK - Racławówka Zabierzów 23 -28,,3,,FFFF00,282828
+1830,1,37,Trembeckiego ZTM pętla 01 - Hermanowa Przylasek pętla 03-37,,3,,00BFFF,282828
+1839,1,59,Trembeckiego ZTM pętla 01 - Przemysłowa U. Celny 05 nż -59,,3,,FAEBD7,282828
+1836,1,49,Św. Rocha lasek pętla 11 - Przemysłowa U. Celny 05 nż -49,,3,,D8BFD8,282828
+1944,1,18,Pienińska pętla 03 - Obr. Poczty Gdańskiej pętla 08 -18,,3,,A52A2A,F5F5F5
+1476,1,22,Bardowskiego 01 - Trzciana pętla 05 -22,,3,,FFE4E1,282828
+1937,1,0A,Dworzec Główny PKP 01 - Dworzec Główny PKP 01 -0A,,3,,000000,F5F5F5
+2071,1,D,Obr. Poczty Gdańskiej pętla 08 - Cienista cmentarz 04-D,,3,,FFFFE0,282828
+1910,1,31,Lubelska Zajezdnia MPK - Sikorskiego MPGK 20 -31,,3,,228B22,F5F5F5
+1660,1,14,Dworzec Lokalny - Kard. K. Wojtyły pętla 03 nż -14,,3,,F5F5F5,282828
+1861,1,6,Ustrzycka pętla 01 nż - Malawa OSP 06 nż -6,,3,,CD853F,282828
+1853,1,9,Staroniwska pętla 12 nż - Olbrachta pętla 09 -9,,3,,00FF7F,282828
+1487,1,39,Przemysłowa U. Celny 05 - Dworzec Lokalny -39,,3,,4682B4,F5F5F5
+1866,1,4,Krasne Auchan 01 - Lubelska Zajezdnia MPK -4,,3,,1E90FF,F5F5F5
+1929,1,16,Św. Rocha lasek pętla 11 - Kalinowa pętla 04 -16,,3,,BC8F8F,282828
+2062,1,58,Dworzec Lokalny - Hermanowa Czerwonki pętla 64 p. Hermanową pętla-58,p. Hermanową pętla,3,,98FB98,282828
+1916,1,1,Krakowska granica 15 nż - Załęska zakład karny 08 nż -1,,3,,808080,F5F5F5
+1945,1,1,Spichlerzowa pętla 04 - Krakowska granica 15 -1,,3,,808080,F5F5F5
+1058,1,33,Lubelska Zajezdnia MPK - Kalinowa pętla 04 -33,,3,,00FF00,282828
+1826,1,17,Przemysłowa U. Celny 05 nż - Lwowska szpital pętla 02 -17,,3,,CD5C5C,F5F5F5
+1874,1,17,Lwowska szpital pętla 02 - Wita Stwosza pętla 01 -17,,3,,CD5C5C,F5F5F5
+1973,1,N1,Łukasiewicza pętla 10 - Obr. Poczty Gdańskiej pętla 08 -N1,,3,,FFF8DC,282828
+2054,1,M,Cienista cmentarz 01 - Kopisto Uniwersytet 01 -M,,3,,DB7093,282828
+1890,1,26,Krakowska granica 15 nż - Cienista cmentarz 04 -26,,3,,FFD700,282828
+1966,1,43,Dworaka targ 01 - Żołnierzy 9 DP bloki 06 nż -43,,3,,191970,F5F5F5
+1961,1,27,Baligrodzka 01 - Cienista cmentarz 04 -27,,3,,BDB76B,282828
+2064,1,S,Cienista cmentarz 01 - Krakowska granica 15 -S,,3,,FFDAB9,282828
+1952,1,15,Olbrachta pętla 09 - Piłsudskiego U. Wojewódzki 06 -15,,3,,FFFFFF,282828
+1970,1,26,Cienista cmentarz 01 - Biznesowa 06 -26,,3,,FFD700,282828
+982,1,30,Matuszczaka pętla 04 - Mikołajczyka pętla 01 -30,,3,,ADFF2F,282828
+2046,1,24,Miłocińska pętla 01 - Matuszczaka pętla 04-24,,3,,A0522D,F5F5F5
+994,1,30,Mikołajczyka pętla 03 - Matuszczaka pętla 04 -30,,3,,ADFF2F,282828
+1478,1,22,Bardowskiego 01 - Świlcza 58 -22,,3,,FFE4E1,282828
+2040,1,44,Dworaka targ 01 - Królka pętla 10 -44,,3,,E6E6FA,282828
+1841,1,15,Piłsudskiego U. Wojewódzki 05 - Olbrachta pętla 09 -15,,3,,FFFFFF,282828
+2070,1,D,Cienista cmentarz 01 - Obr. Poczty Gdańskiej pętla 08-D,,3,,FFFFE0,282828
+736,1,3,Krakowska granica 15 - Lutoryż pętla 04 -3,,3,,9ACD32,282828
+1913,1,27,Cienista cmentarz 01 - Baligrodzka 01 -27,,3,,BDB76B,282828
+1955,1,35,Kielanówka pętla 14 - Bardowskiego 04 -35,,3,,008B8B,F5F5F5
+2085,1,H,Baligrodzka 01 - Cienista cmentarz 04-H,,3,,BA55D3,282828
+1833,1,7,Dworzec Lokalny - Krasne Auchan 01 p. Dworaka targ-7,p. Dworaka targ,3,,FFE4E1,282828
+1938,1,12,Trembeckiego ZTM pętla 01 - Budziwojska pętla 22 -12,,3,,000000,F5F5F5
+1829,1,34,Kielanówka pętla 14 - Lwowska szpital pętla 02 -34,,3,,7FFFD4,282828
+1865,1,4,Lubelska Zajezdnia MPK - Krasne Auchan 01 -4,,3,,1E90FF,F5F5F5
+1903,1,34,Lwowska szpital pętla 02 - Kielanówka pętla 10 -34,,3,,7FFFD4,282828
+1972,1,12,Budziwojska pętla 22 nż - Trembeckiego ZTM pętla 01 -12,,3,,000000,F5F5F5
+1941,1,59,Przemysłowa U. Celny 05 nż - Trembeckiego ZTM pętla 01 -59,,3,,FAEBD7,282828
+952,1,28,Lubelska Zajezdnia MPK - Beskidzka granica 07 -28,,3,,FFFF00,282828
+1950,1,8,Warszawska / Borowa 08 nż - Sikorskiego MPGK 20 p. Pogwizdowską-8,p. Pogwizdowską,3,,8FBC8B,282828
+1862,1,19,Łukasiewicza pętla 10 - Miłocińska pętla 01 -19,,3,,B22222,F5F5F5
+1492,1,22,Bardowskiego 01 - Mrowla Otoka pętla 01 -22,,3,,FFE4E1,282828
+1626,1,52,Zaczernie ML System / Fibrain 03 - Bardowskiego 04 -52,,3,,C71585,F5F5F5
+1962,1,1,Krakowska granica 15 nż - Spichlerzowa pętla 04 nż -1,,3,,808080,F5F5F5
+1953,1,35,Bardowskiego 02 - Kielanówka pętla 10 -35,,3,,008B8B,F5F5F5
+2047,1,19,Miłocińska pętla 01 - Łukasiewicza pętla 10-19,,3,,B22222,F5F5F5
+1902,1,26,Cienista cmentarz 01 - Krakowska granica 15 nż -26,,3,,FFD700,282828
+1633,1,2,Kard. K. Wojtyły pętla 03 nż - Baligrodzka 01 -2,,3,,F08080,282828
+1901,1,31,Sikorskiego MPGK 20 - Lubelska Zajezdnia MPK -31,,3,,228B22,F5F5F5
+1928,1,34,Błękitne Wzgórze / Leśne Wzgórze 03 - Lwowska szpital pętla 02 -34,,3,,7FFFD4,282828
+1529,1,42,Bł. Karoliny 09 - Bł. Karoliny 09 -42,,3,,778899,282828
+1822,1,18,Łukasiewicza pętla 10 - Obr. Poczty Gdańskiej pętla 08 -18,,3,,A52A2A,F5F5F5
+2061,1,G,Kard. K. Wojtyły pętla 04 - Cienista cmentarz 04 -G,,3,,8B4513,F5F5F5
+1985,1,26,Biznesowa 06 - Wyzwolenia / Warszawska 01 nż-26,,3,,FFD700,282828
+1960,1,10,Bł. Karoliny 09 - Łukasiewicza pętla 08 p. Wywrockiego-10,p. Wywrockiego,3,,A9A9A9,282828
+1939,1,32,Niepodległości / Rejtana 02 - Obr. Poczty Gdańskiej pętla 08 -32,,3,,90EE90,282828
+1887,1,17,Lwowska szpital pętla 02 - Przemysłowa U. Celny 05 -17,,3,,CD5C5C,F5F5F5
+1893,1,1,Krakowska granica 15 nż - Spichlerzowa pętla 04 nż p. Ciepłowniczą EC-1,p. Ciepłowniczą EC,3,,808080,F5F5F5
+1968,1,57,Dworaka targ 01 - Dworaka targ 01 -57,,3,,D2691E,F5F5F5
+956,1,28,Beskidzka granica 07 - Lubelska Zajezdnia MPK -28,,3,,FFFF00,282828
+1535,1,23,Lubelska Zajezdnia MPK - Matuszczaka pętla 04 -23,,3,,FA8072,282828
+955,1,28,Lubelska Zajezdnia MPK - Beskidzka granica 07 p. Racławówkę Doły-28,p. Racławówkę Doły,3,,FFFF00,282828
+1907,1,1,Załęska Zakład Karny 08 - Krakowska granica 15 -1,,3,,808080,F5F5F5
+1628,1,52,Bardowskiego 03 - Zaczernie ML System / Fibrain 03 -52,,3,,C71585,F5F5F5
+1872,1,13,Langiewicza / Wita Stwosza 04 - Lwowska szpital pętla 02 -13,,3,,DCDCDC,282828
+1544,1,42,Bł. Karoliny 09 - Piłsudskiego U. Marszałkowski 05 -42,,3,,778899,282828
+1859,1,26,Biznesowa 06 - Cienista cmentarz 04 -26,,3,,FFD700,282828
+1856,1,6,Słocińska pętla 11 nż - Ustrzycka pętla 02 nż -6,,3,,CD853F,282828
+2056,1,A,Cienista cmentarz 01 - Matuszczaka pętla 04-A,,3,,FFA07A,282828
+1852,1,36,Św. Rocha lasek pętla 11 - Bł. Karoliny pętla 09 -36,,3,,00FFFF,282828
+1835,1,45,Bardowskiego 02 - Mogielnica pętla 01 -45,,3,,000080,F5F5F5
+1659,1,14,Kard. K. Wojtyły pętla 03 nż - Dworzec Lokalny -14,,3,,F5F5F5,282828
+1770,1,28,Racławówka Zabierzów 23 - Lubelska Zajezdnia MPK p. Racławówkę Doły-28,p. Racławówkę Doły,3,,FFFF00,282828
+1325,1,46,Dworzec Lokalny - Albigowa Skrzyż. Młyn 56 -46,,3,,0000FF,F5F5F5
+2068,1,C,Cienista cmentarz 01 - Mikołajczyka pętla 01 -C,,3,,FFE4B5,282828
+1765,1,51,Bardowskiego 01 - Jasionka - Port Lotniczy -51,,3,,FF00FF,F5F5F5
+1061,1,33,Kalinowa pętla 04 - Lubelska Zajezdnia MPK -33,,3,,00FF00,282828
+1965,1,47,Dworaka targ 01 - Baligrodzka 01 -47,,3,,6A5ACD,F5F5F5
+1857,1,15,Cieplińskiego 02 - Zwięczycka MPWiK 05 -15,,3,,FFFFFF,282828
+1854,1,34,Piłsudskiego U. Marszałkowski 08 - Kielanówka pętla 14 -34,,3,,7FFFD4,282828
+1844,1,11,Matuszczaka pętla 04 - Potockiego pętla 10 -11,,3,,C0C0C0,282828
+1834,1,19,Obr. Poczty Gdańskiej pętla 08 - Łukasiewicza pętla 10-19,,3,,B22222,F5F5F5
+954,1,28,Beskidzka granica 07 - Lubelska Zajezdnia MPK p. Racławówkę Doły-28,p. Racławówkę Doły,3,,FFFF00,282828
+1850,1,10,Łukasiewicza pętla 08 - Bł. Karoliny pętla 09 p. Wywrockiego-10,p. Wywrockiego,3,,A9A9A9,282828
+1934,1,6,Słocińska pętla 11 nż - Ustrzycka 06 nż -6,,3,,CD853F,282828
+774,1,3,Lutoryż pętla 04 - Krakowska granica 15 -3,,3,,9ACD32,282828
+1819,1,9,Olbrachta pętla 09 - Staroniwska pętla 12 nż -9,,3,,00FF7F,282828
+1842,1,8,Staromiejska / Lubelska 02 nż - Rudna Wielka zakręt 04 nż -8,,3,,8FBC8B,282828
+1908,1,16,Wyzwolenia / Lubelska 02 nż - Kalinowa pętla 04 -16,,3,,BC8F8F,282828
+1838,1,6,Piłsudskiego U. Wojewódzki 03 - Słocińska pętla 11-6,,3,,CD853F,282828
+1881,1,15,Zwięczycka MPWiK 05 - Olbrachta pętla 09 p. Jarową-15,p. Jarową,3,,FFFFFF,282828
+1832,1,32,Obr. Poczty Gdańskiej pętla 08 - Niepodległości / Rejtana 02 -32,,3,,90EE90,282828
+2036,1,60,Św. Rocha kapliczka 08 nż - Olbrachta pętla 09-60,,3,,F0FFF0,282828
+1840,1,36,Bł. Karoliny 09 - Św. Rocha lasek pętla 11 -36,,3,,00FFFF,282828
+1871,1,4,Krasne Auchan 01 - Lubelska Zajezdnia MPK p. Cienistą cmentarz-4,p. Cienistą cmentarz,3,,1E90FF,F5F5F5
+893,1,41,Potockiego pętla 10 - Bardowskiego 04 -41,,3,,1E90FF,F5F5F5
+1969,1,7,Dworzec Lokalny - Krasne Auchan 01 -7,,3,,FFE4E1,282828
+1635,1,54,Bardowskiego 03 - Głogów Młp. Leniar I 01 nż -54,,3,,DC143C,F5F5F5
+1629,1,54,Głogów Młp. Zelmer II 02 - Bardowskiego 02-54,,3,,DC143C,F5F5F5
+1904,1,36,Cieplińskiego 02 - Św. Rocha lasek pętla 11 -36,,3,,00FFFF,282828
+1926,1,43,Żołnierzy 9 Dyw. Piechoty bloki 06 nż - Dworaka targ 01 -43,,3,,191970,F5F5F5
+1915,1,N1,Obr. Poczty Gdańskiej pętla 08 - Łukasiewicza pętla 10 -N1,,3,,FFF8DC,282828
+1956,1,6,Ustrzycka pętla 01 - Słocińska pętla 11 -6,,3,,CD853F,282828
+1909,1,6,Ustrzycka / Magórska 07 - Słocińska pętla 11 -6,,3,,CD853F,282828
+1878,1,8,Sikorskiego MPGK 20 - Warszawska / Borowa 07 nż p. Pogwizdowską-8,p. Pogwizdowską,3,,8FBC8B,282828
+1967,1,4,Lubelska Zajezdnia MPK - Krasne Auchan 01 p. Cienistą cmentarz-4,p. Cienistą cmentarz,3,,1E90FF,F5F5F5
+1940,1,16,Lubelska szpital 01 - Św. Rocha lasek pętla 11 -16,,3,,BC8F8F,282828
+1471,1,22,Świlcza 58 - Bardowskiego 04 -22,,3,,FFE4E1,282828
+1831,1,6,Malawa OSP 06 nż - Ustrzycka pętla 02 nż -6,,3,,CD853F,282828
+1873,1,7,Krasne Auchan 01 - Dworzec Lokalny -7,,3,,FFE4E1,282828
+2082,1,F,Cienista cmentarz 01 - Wita Stwosza pętla 01 -F,,3,,5F9EA0,282828
+2041,1,44,Królka pętla 10 - Dworaka targ 01 -44,,3,,E6E6FA,282828
+1918,1,8,Lubelska kościół 05 - Sikorskiego MPGK 20-8,,3,,8FBC8B,282828
+1905,1,45,Mogielnica pętla 01 - Bardowskiego 04 -45,,3,,000080,F5F5F5
+1975,1,29,Trembeckiego ZTM pętla 01 - Przemysłowa U. Celny 05 nż -29,,3,,808000,F5F5F5
+2053,1,S,Krakowska granica 15 nż - Cienista cmentarz 04-S,,3,,FFDAB9,282828
+1480,1,22,Trzciana pętla 05 - Bardowskiego 04-22,,3,,FFE4E1,282828
+1924,1,34,Lwowska szpital pętla 02 - Błękitne Wzgórze / Leśne Wzgórze 03 nż -34,,3,,7FFFD4,282828
+1974,1,16,Św. Rocha lasek pętla 11 - Lubelska szpital 02 -16,,3,,BC8F8F,282828
+2060,1,B,Cienista cmentarz 01 - Hetmańska stadion 07-B,,3,,6495ED,282828
+2077,1,C,Mikołajczyka pętla 03 - Cienista cmentarz 04-C,,3,,FFE4B5,282828
+1978,1,20,Bratkowice las 02 - Bardowskiego 04-20,,3,,800000,F5F5F5
+1766,1,51,Jasionka - Port Lotniczy - Bardowskiego 04 -51,,3,,FF00FF,F5F5F5
+1882,1,9,Olbrachta pętla 09 - Trembeckiego ZTM 05 nż -9,,3,,00FF7F,282828
+1919,1,10,Bł. Karoliny 09 - Łukasiewicza pętla 08 -10,,3,,A9A9A9,282828
+1927,1,1,Spichlerzowa pętla 04 - Krakowska granica 15 p. Ciepłowniczą EC-1,p. Ciepłowniczą EC,3,,808080,F5F5F5
+1821,1,1,Krakowska granica 15 nż - Ciepłownicza elektrociepłownia 06 nż -1,,3,,808080,F5F5F5
+1537,1,23,Matuszczaka pętla 04 - Lubelska Zajezdnia MPK -23,,3,,FA8072,282828
+1912,1,40,Bł. Karoliny 09 - Łukasiewicza pętla 08 -40,,3,,B0C4DE,282828
+1769,1,28,Racławówka Zabierzów 23 - Lubelska Zajezdnia MPK -28,,3,,FFFF00,282828
+948,1,28,Lubelska Zajezdnia MPK - Racławówka Zabierzów 23 p. Racławówkę Doły-28,p. Racławówkę Doły,3,,FFFF00,282828
+1946,1,15,Olbrachta pętla 09 - Zwięczycka MPWiK 05 -15,,3,,FFFFFF,282828
+1324,1,46,Albigowa Skrzyż. Młyn 56 - Dworzec Lokalny -46,,3,,0000FF,F5F5F5
+1899,1,6,Ustrzycka pętla 01 - Piłsudskiego U. Marszałkowski 05 -6,,3,,CD853F,282828
+2079,1,11,Matuszczaka pętla 04 - Potockiego pętla 10 WŚ-11,WŚ,3,,C0C0C0,282828
+1307,1,3,Boguchwała 97 - Cieplińskiego 01 -3,,3,,9ACD32,282828
+2057,1,A,Matuszczaka pętla 04 - Cienista cmentarz 04-A,,3,,FFA07A,282828
+1491,1,39,Dworzec Lokalny - Przemysłowa U. Celny 05 -39,,3,,4682B4,F5F5F5
+1816,1,19,Piłsudskiego U. Wojewódzki 05 - Łukasiewicza pętla 10 -19,,3,,B22222,F5F5F5
+1867,1,5,Lubelska Zajezdnia MPK - Pienińska pętla 03 -5,,3,,9932CC,F5F5F5
+1951,1,7,Krasne Auchan 01 - Dworzec Lokalny p. Dworaka targ-7,p. Dworaka targ,3,,FFE4E1,282828
+1824,1,19,Łukasiewicza pętla 10 - Obr. Poczty Gdańskiej pętla 08 -19,,3,,B22222,F5F5F5
+1925,1,5,Pienińska pętla 03 - Lubelska Zajezdnia MPK -5,,3,,9932CC,F5F5F5
+2065,1,G,Cienista cmentarz 01 - Kard. K. Wojtyły pętla 03 nż -G,,3,,8B4513,F5F5F5
+2038,1,58,Hermanowa Czerwonki pętla 64 - Dworzec Lokalny p. Hermanową pętla-58,p. Hermanową pętla,3,,98FB98,282828
+1851,1,16,Kalinowa pętla 04 - Wyzwolenia / Warszawska 01 nż -16,,3,,BC8F8F,282828
+1884,1,27,Piłsudskiego U. Marszałkowski 08 - Baligrodzka 01 -27,,3,,BDB76B,282828
+2045,1,44,Dworaka targ 01 - Tyczyn Kopernika 39-44,,3,,E6E6FA,282828
+2067,1,M,Kopisto Uniwersytet 02 - Cienista cmentarz 04 -M,,3,,DB7093,282828
+1855,1,8,Sikorskiego MPGK 20 - Warszawska / Borowa 08 nż -8,,3,,8FBC8B,282828
+1643,1,N2,Bł. Karoliny 09 - Dworzec Główny PKP 03 -N2,,3,,B0E0E6,282828
+1964,1,8,Warszawska / Borowa 07 nż - Sikorskiego MPGK 20-8,,3,,8FBC8B,282828
+1837,1,N3,Lubelska Zajezdnia MPK - Lubelska Zajezdnia MPK -N3,,3,,A0522D,F5F5F5
+1914,1,10,Łukasiewicza pętla 08 - Bł. Karoliny pętla 09 -10,,3,,A9A9A9,282828
+1860,1,12,Trembeckiego ZTM pętla 01 - Siedliska Skrzyżowanie II 05 -12,,3,,000000,F5F5F5
+1542,1,24,Matuszczaka pętla 04 - Miłocińska pętla 01 -24,,3,,A0522D,F5F5F5
+2051,1,H,Cienista cmentarz 01 - Baligrodzka 01 -H,,3,,BA55D3,282828
+1084,1,3,Boguchwała 97 - Mrowla Otoka pętla 01 -3,,3,,9ACD32,282828
+1825,1,36,Dąbrowskiego Instytut Muzyki 07 - Bł. Karoliny 09 -36,,3,,00FFFF,282828
+2083,1,K,Słocińska pętla 11 - Budziwojska pętla 22 -K,,3,,FFEBCD,282828
+2055,1,15,Zwięczycka MPWiK 05 - Olbrachta pętla 09 WŚ-15,WŚ,3,,FFFFFF,282828
+1880,1,1,Ciepłownicza Elektrociepłownia 06 - Krakowska granica 15 p. Spichlerzową-1,p. Spichlerzową,3,,808080,F5F5F5
+1868,1,1,Krakowska granica 15 nż - Ciepłownicza elektrociepłownia 06 nż p. Spichlerzową-1,p. Spichlerzową,3,,808080,F5F5F5
+2059,1,F,Wita Stwosza / Langiewicza 02 - Cienista cmentarz 04-F,,3,,5F9EA0,282828
+2058,1,N1,Miłocińska pętla 01 - Łukasiewicza pętla 10-N1,,3,,FFF8DC,282828
+1875,1,6,Piłsudskiego U. Marszałkowski 08 - Ustrzycka 06 -6,,3,,CD853F,282828
+2035,1,58,Dworzec Lokalny - Hermanowa Czerwonki pętla 64 p. Hermanową pętla-58,p. Hermanową pętla,3,,98FB98,282828
+1921,1,34,Błękitne Wzgórze / Leśne Wzgórze 03 - Piłsudskiego U. Marszałkowski 05 -34,,3,,7FFFD4,282828
+1870,1,9,Trembeckiego ZTM 05 nż - Staroniwska pętla 12 nż -9,,3,,00FF7F,282828
+1963,1,29,Przemysłowa U. Celny 05 - Pl. Wolności 04 -29,,3,,808000,F5F5F5
+1922,1,N1,Łukasiewicza pętla 10 - Lubelska Zajezdnia MPK -N1,,3,,FFF8DC,282828
+1935,1,9,Trembeckiego ZTM 02 nż - Olbrachta pętla 09 -9,,3,,00FF7F,282828
+776,1,3,Świlcza 58 - Boguchwała 97 -3,,3,,9ACD32,282828
+2063,1,K,Budziwojska pętla 22 - Rejtana / Paderewskiego 10 -K,,3,,FFEBCD,282828
+1888,1,1,Ciepłownicza Elektrociepłownia 06 - Krakowska granica 15 -1,,3,,808080,F5F5F5
+1484,1,22,Trzciana pętla 05 - Piłsudskiego U. Marszałkowski 05 -22,,3,,FFE4E1,282828
+1655,1,N2,Dworzec Główny PKP 01 - Bł. Karoliny 09 -N2,,3,,B0E0E6,282828
+1933,1,6,Malawa OSP 06 nż - Ustrzycka 06 nż -6,,3,,CD853F,282828
+2052,1,1,Krakowska granica 15 nż - Spichlerzowa pętla 04 nż p. Ciepłowniczą EC WŚ-1,p. Ciepłowniczą EC WŚ,3,,808080,F5F5F5
+2069,1,1,Krakowska granica 15 nż - Spichlerzowa pętla 04 nż WŚ-1,WŚ,3,,808080,F5F5F5
+1869,1,36,Bł. Karoliny 09 - Piłsudskiego U. Marszałkowski 05 -36,,3,,00FFFF,282828
+1883,1,17,Pl. Wolności 04 - Przemysłowa U. Celny 05 -17,,3,,CD5C5C,F5F5F5
+1818,1,49,Przemysłowa U. Celny 05 - Św. Rocha lasek pętla 11 -49,,3,,D8BFD8,282828
+885,1,47,Baligrodzka 01 - Dworaka targ 01 -47,,3,,6A5ACD,F5F5F5
+2049,1,15,Olbrachta pętla 09 - Zwięczycka MPWiK 05 WŚ-15,WŚ,3,,FFFFFF,282828
+1983,1,26,Wyzwolenia / Lubelska 02 nż - Biznesowa 06-26,,3,,FFD700,282828
+2073,1,15,Zwięczycka MPWiK 05 - Olbrachta pętla 09 p. Jarową WŚ-15,p. Jarową WŚ,3,,FFFFFF,282828
+1920,1,36,Piłsudskiego U. Marszałkowski 08 - Bł. Karoliny 09 -36,,3,,00FFFF,282828
+782,1,3,Świlcza 58 - Lutoryż pętla 04 -3,,3,,9ACD32,282828
+1891,1,6,Ustrzycka / Magórska 07 - Malawa OSP 06 nż -6,,3,,CD853F,282828
+1957,1,6,Słocińska pętla 11 nż - Piłsudskiego U. Wojewódzki 06 -6,,3,,CD853F,282828
+1658,1,2,Piłsudskiego U. Marszałkowski 08 - Baligrodzka 01-2,,3,,F08080,282828
+1947,1,1,Piłsudskiego U. Marszałkowski 08 - Krakowska granica 15 -1,,3,,808080,F5F5F5
+912,1,41,Bardowskiego 01 - Potockiego pętla 10 -41,,3,,1E90FF,F5F5F5
+1080,1,3,Lutoryż pętla 04 - Mrowla Otoka pętla 01 -3,,3,,9ACD32,282828
+1077,1,3,Mrowla Otoka pętla 01 - Boguchwała 97 -3,,3,,9ACD32,282828
+2080,1,K,Powst. Warszawy Dom Studenta 08 - Słocińska pętla 11 -K,,3,,FFEBCD,282828
+1900,1,11,Potockiego pętla 10 - Piłsudskiego U. Wojewódzki 06 -11,,3,,C0C0C0,282828
+1817,1,18,Lubelska szpital 01 - Pienińska-18,,3,,A52A2A,F5F5F5
+880,1,47,Dworaka targ 01 - Baligrodzka 01 -47,,3,,6A5ACD,F5F5F5
+1876,1,8,Sikorskiego MPGK 20 - Lubelska kościół 06 nż -8,,3,,8FBC8B,282828
+2072,1,15,Olbrachta pętla 09 - Zwięczycka MPWiK 05 p. Jarową WŚ-15,p. Jarową WŚ,3,,FFFFFF,282828
+2066,1,15,Piłsudskiego U. Wojewódzki 05 - Olbrachta pętla 09 WŚ-15,WŚ,3,,FFFFFF,282828
+1959,1,15,Zwięczycka MPWiK 05 - Cieplińskiego 01 p. Jarową-15,p. Jarową,3,,FFFFFF,282828
+1931,1,32,Niepodległości / Rejtana 02 - Obr. Poczty Gdańskiej pętla 08 p. Matuszczaka-32,p. Matuszczaka,3,,90EE90,282828
+1906,1,29,Przemysłowa U. Celny 05 - Trembeckiego ZTM pętla 01 -29,,3,,808000,F5F5F5
+786,1,3,Boguchwała 97 - Świlcza 58 -3,,3,,9ACD32,282828
+1820,1,11,Matuszczaka pętla 04 - Cieplińskiego 01 -11,,3,,C0C0C0,282828
+1936,1,26,Krakowska granica 15 nż - Wyzwolenia / Warszawska 01 nż -26,,3,,FFD700,282828
+1911,1,57,Dworaka targ 01 - Warszawska / Borowa 07 nż -57,,3,,D2691E,F5F5F5
+1079,1,3,Mrowla Otoka pętla 01 - Lutoryż pętla 04 -3,,3,,9ACD32,282828
+1653,1,2,Kard. K. Wojtyły pętla 03 nż - Cieplińskiego 01 -2,,3,,F08080,282828
+767,1,3,Piłsudskiego U. Marszałkowski 08 - Świlcza 58 -3,,3,,9ACD32,282828
+1923,1,15,Cieplińskiego 02 - Zwięczycka MPWiK 05 p. Jarową-15,p. Jarową,3,,FFFFFF,282828
+779,1,3,Lutoryż pętla 04 - Świlcza 58 -3,,3,,9ACD32,282828
+1647,1,2,Baligrodzka 01 - Piłsudskiego U. Marszałkowski 05-2,,3,,F08080,282828
+2084,1,K,Budziwojska pętla 22 - Słocińska pętla 11 -K,,3,,FFEBCD,282828
+2075,1,K,Rejtana / Popiełuszki 09 - Budziwojska pętla 22 -K,,3,,FFEBCD,282828
+2039,1,60,Olbrachta pętla 09 - Św. Rocha kapliczka 08 nż-60,,3,,F0FFF0,282828
+1885,1,1,Krakowska granica 15 - Piłsudskiego U. Marszałkowski 05 -1,,3,,808080,F5F5F5
+1892,1,32,Obr. Poczty Gdańskiej pętla 08 - Niepodległości / Rejtana 02 p. Matuszczaka-32,p. Matuszczaka,3,,90EE90,282828
+763,1,3,Cieplińskiego 02 - Boguchwała 97 -3,,3,,9ACD32,282828
+990,1,46,Słocińska pętla 11 - Dworzec Lokalny -46,,3,,0000FF,F5F5F5
+1645,1,N2,Bł. Karoliny 09 - Słocińska pętla 11 -N2,,3,,B0E0E6,282828
+1948,1,6,Ustrzycka / Magórska 07 - Piłsudskiego U. Marszałkowski 05 -6,,3,,CD853F,282828
+1657,1,2,Cieplińskiego 02 - Kard. K. Wojtyły pętla 03 nż -2,,3,,F08080,282828
+1843,1,11,Piłsudskiego U. Wojewódzki 05 - Potockiego pętla 10 -11,,3,,C0C0C0,282828
+1982,1,20,Bratkowice las 02 - Bardowskiego 04 p. Rudną Wielką I-20,p. Rudną Wielką I,3,,800000,F5F5F5
+2048,1,1,Piłsudskiego U. Wojewódzki 05 - Spichlerzowa pętla 04 nż WŚ-1,WŚ,3,,808080,F5F5F5
+2078,1,K,Słocińska pętla 11 - Powst. Warszawy Dom Studenta 09 -K,,3,,FFEBCD,282828
+1943,1,6,Piłsudskiego U. Wojewódzki 03 - Malawa OSP 06 nż -6,,3,,CD853F,282828
+1894,1,29,Bardowskiego 02 - Przemysłowa U. Celny 05 nż -29,,3,,808000,F5F5F5
+748,1,3,Cieplińskiego 02 - Lutoryż pętla 04 -3,,3,,9ACD32,282828
+1896,1,N1,Miłocińska pętla 01 - Łukasiewicza pętla 10 -N1,,3,,FFF8DC,282828
+1879,1,57,Warszawska / Borowa 08 nż - Dworaka targ 01 -57,,3,,D2691E,F5F5F5
+1078,1,3,Piłsudskiego U. Marszałkowski 08 - Mrowla Otoka pętla 01 -3,,3,,9ACD32,282828
+2081,1,11,Piłsudskiego U. Wojewódzki 03 - Potockiego pętla 10 WŚ-11,WŚ,3,,C0C0C0,282828
+1845,1,1,Piłsudskiego U. Wojewódzki 05 - Spichlerzowa pętla 04 nż -1,,3,,808080,F5F5F5
+1898,1,1,Spichlerzowa pętla 04 - Piłsudskiego U. Wojewódzki 06 -1,,3,,808080,F5F5F5
+777,1,3,Krakowska granica 15 - Piłsudskiego U. Marszałkowski 05 -3,,3,,9ACD32,282828
+993,1,46,Dworzec Lokalny - Słocińska pętla 11 -46,,3,,0000FF,F5F5F5
+1081,1,3,Piłsudskiego U. Marszałkowski 08 - Krakowska granica 15 -3,,3,,9ACD32,282828
+1827,1,27,Baligrodzka 01 - Piłsudskiego U. Marszałkowski 05 -27,,3,,BDB76B,282828
+1979,1,20,Warszawska / Borowa 08 nż - Bratkowice las 01-20,,3,,800000,F5F5F5
+1847,1,15,Zwięczycka MPWiK 05 - Cieplińskiego 01 -15,,3,,FFFFFF,282828
+2076,1,15,Olbrachta pętla 09 - Piłsudskiego U. Wojewódzki 06 WŚ-15,WŚ,3,,FFFFFF,282828

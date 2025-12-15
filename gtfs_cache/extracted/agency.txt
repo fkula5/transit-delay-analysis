@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+1,Zarząd Transportu Miejskiego w Rzeszowie,http://www.ztm.rzeszow.pl,Europe/Warsaw,pl,(17) 86-60-383,,
