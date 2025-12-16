@@ -9,7 +9,7 @@ MONGO_CONNECTION_STRING = "mongodb://localhost:27017/"
 
 NAZWA_BAZY = "ztm_rzeszow_data"
 NAZWA_KOLEKCJI = "odczyty_gtfs_rt"
-INTERWAL_SEKUNDY = 60
+INTERWAL_SEKUNDY = 30
 
 
 def uruchom_kolektor():

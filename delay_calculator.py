@@ -78,7 +78,7 @@ class DelayCalculator:
         distance_meters = distance * 111000
         
         if distance_meters < max_distance_km * 1000:
-            return self.stops_ids[index], distance_meters
+            return self.stops_ids[index].item(), distance_meters
         
         return None, None
     
@@ -89,7 +89,8 @@ class DelayCalculator:
         Returns:
             dict lub None: Informacje o opóźnieniu
         """
-        trip_id = dane_pojazdu.get('trip_id')
+        trip_id = int(dane_pojazdu.get('trip_id'))
+              
         if not trip_id:
             return None
         
