@@ -9,7 +9,6 @@ Projekt do zbierania, analizy i predykcji opóźnień autobusów miejskich MPK R
 - [Instalacja](#instalacja)
 - [Użycie](#użycie)
 - [Struktura danych](#struktura-danych)
-- [Dalszy rozwój](#dalszy-rozwój)
 
 ## ✨ Funkcjonalności
 
@@ -20,13 +19,6 @@ Projekt do zbierania, analizy i predykcji opóźnień autobusów miejskich MPK R
 - **Baza danych MongoDB** - przechowywanie historycznych danych i opóźnień
 - **Dashboard interaktywny** - wizualizacja opóźnień, map, wykresów i statystyk
 - **Analiza temporalna** - trendy według godzin, dni tygodnia, dat
-
-### 🔄 W planach
-
-- Predykcja opóźnień za pomocą ML (Random Forest, XGBoost)
-- Analiza przyczyn opóźnień (pogoda, ruch, godziny szczytu)
-- API REST dla dostępu do danych
-- Alerty i powiadomienia o opóźnieniach
 
 ## 🏗️ Architektura systemu
 
@@ -246,46 +238,6 @@ streamlit run dashboard_delays.py
 }
 ```
 
-## 📈 Dalszy rozwój
-
-### Faza 1: Wzbogacenie danych (1-2 tygodnie)
-
-- [ ] Zbieranie danych pogodowych (OpenWeatherMap API)
-- [ ] Analiza ruchu drogowego (Google Traffic API)
-- [ ] Identyfikacja dni świątecznych i wydarzeń
-
-### Faza 2: Feature Engineering (2-3 tygodnie)
-
-- [ ] Agregacja historycznych opóźnień (średnia/mediana na trasie)
-- [ ] Propagacja opóźnień między przystankami
-- [ ] Ekstrakcja cech czasowych (godziny szczytu, weekend, etc.)
-- [ ] Segmentacja tras (śródmieście vs peryferie)
-
-### Faza 3: Modelowanie (3-4 tygodnie)
-
-- [ ] Baseline model (średnia historyczna)
-- [ ] Linear Regression
-- [ ] Random Forest / XGBoost
-- [ ] Time Series (ARIMA / Prophet) dla tras
-- [ ] LSTM dla sekwencji opóźnień
-- [ ] Ewaluacja modeli (MAE, RMSE, R²)
-
-### Faza 4: Deployment
-
-- [ ] REST API (FastAPI)
-- [ ] Predykcje w czasie rzeczywistym
-- [ ] Integracja z dashboardem
-- [ ] Monitoring i alerty
-
-## 🎯 Metryki sukcesu projektu
-
-| Metryka                    | Cel         | Status                       |
-| -------------------------- | ----------- | ---------------------------- |
-| Dokładność predykcji (MAE) | <3 minuty   | 🔄 W trakcie                 |
-| Pokrycie danych            | >80% kursów | ✅ Zależne od API            |
-| Latencja predykcji         | <1 sekunda  | 🔄 W planach                 |
-| Dostępność systemu         | >95%        | ✅ Zależne od infrastruktury |
-
 ## 📝 Uwagi techniczne
 
 ### Limitacje GTFS-RT API
@@ -305,31 +257,3 @@ streamlit run dashboard_delays.py
 - MongoDB indeksy: `trip_id`, `timestamp`, `stop_id`
 - Cache GTFS static (24h)
 - Przetwarzanie batch (100 odczytów na raz)
-
-## 🤝 Wkład w projekt
-
-Jeśli chcesz pomóc:
-
-1. Fork repozytorium
-2. Stwórz branch (`git checkout -b feature/nowa-funkcja`)
-3. Commit zmian (`git commit -m 'Dodano nową funkcję'`)
-4. Push do brancha (`git push origin feature/nowa-funkcja`)
-5. Otwórz Pull Request
-
-## 📄 Licencja
-
-MIT License - używaj jak chcesz!
-
-## 🙏 Podziękowania
-
-- **MPK Rzeszów** za udostępnienie danych GTFS/GTFS-RT
-- **Miasto Rzeszów** za portal Otwarte Dane
-- **MKuranowski** za poprawki i wzbogacenie plików GTFS
-
-## 📧 Kontakt
-
-Masz pytania? Otwórz Issue na GitHubie!
-
----
-
-**Projekt rozwijany w ramach kursu "Analiza danych w R i Python"**
